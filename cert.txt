@@ -1,0 +1,1 @@
+keytool -importcert -noprompt -trustcacerts -alias zscaler -file zscaler.pem -keystore "C:\Program Files\Amazon Corretto\jdk17.0.10_7\lib\security\cacerts"-storepass changeit
