@@ -1,6 +1,6 @@
 https://stprodwedrsrawmsgs5903.blob.core.windows.net/vtg-kloud-events-raw-prod
 
-sp=rl&st=2026-02-03T09:57:46Z&se=2026-05-04T18:12:46Z&spr=https&sv=2024-11-04&sr=c&sig=fyxSIyrtIUjx%2FCwdD41wEQZKmsR7qsrw5wEqhgrC6uw%3D
+sp=rl&st=2026-05-04T03:49:51Z&se=2026-08-04T12:04:51Z&spr=https&sv=2025-11-05&sr=c&sig=28CTs95lGrcl7041ftNYQgtvqr%2FXsbd4ksfMOlMDGtw%3D
 
 https://rvsexplorationstgdlake.blob.core.windows.net/ahmed
 
